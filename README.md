@@ -68,8 +68,9 @@ The dashboard provides deep insights into sales performance, customer behavior, 
 
 ## 👨‍💻 Author
 - Created by **Tushar Kunwar**  
-- 📧 Contact: [tusharkunwar745@gmail.com]
-- 🌐 GitHub:  [https://github.com/tushar-745]
+- 📧 Contact: [sujeetkumarntn25@gmail.com]
+- 🌐 GitHub:  [https://github.com/SujeetKr075
+- ]
 
 
 
